@@ -2,6 +2,20 @@
   float: left;
   padding: 30px;
 }
-.container h4 {
+.container h3 {
   padding: 20px;
+}
+.jumbotron {
+  background-color: #99ccff;
+}
+.sidebar {
+  float: right;
+  width: 30%;
+  border: 3px solid #339933;
+  padding: 10 px;
+  margin: 5px;
+
+}
+.sidebar h2{
+  text-align: center;
 }
