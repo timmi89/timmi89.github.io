@@ -19,3 +19,10 @@
 .sidebar h2{
   text-align: center;
 }
+.column {
+  width: 30%;
+}
+
+body {
+  background-color: #e5e5ff;
+ }
