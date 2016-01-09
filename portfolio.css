@@ -11,18 +11,24 @@ img {
 .sidebar {
   float: right;
   width: 30%;
-  border: 3px solid #339933;
-  padding: 10 px;
+  border: 5px solid #339933;
+  padding: 20 px;
   margin: 5px;
+  background-color: #ffe5e5;
 
 }
  .sidebar h2{
    text-align: center;
  }
-.column {
- width: 30%;
-}
+ .column {
+  width: 30%;
+  background-color: #ffe5e5;
+  border: 5px solid #339933;
+  padding: 20 px;
+  margin: 15px;
+
+ }
 
 body {
-  background-color: #e5e5ff;
+  background-image: url(https://www.colourbox.com/preview/9364503-vector-background-of-repeating-geometric-stars-geometric-background-retro-hipster-color-spectrum-background-mosaic-pattern-backdrop-repeating-circles-round-shapes.jpg);
 }
